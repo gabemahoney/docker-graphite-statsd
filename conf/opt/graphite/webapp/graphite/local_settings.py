@@ -172,7 +172,8 @@
 #CLUSTER_SERVERS = ["10.0.2.2:80", "10.0.2.3:80"]
 
 ## These are timeout values (in seconds) for requests to remote webapps
-#REMOTE_STORE_FETCH_TIMEOUT = 6   # Timeout to fetch series data
+REMOTE_STORE_FETCH_TIMEOUT = 600   # Timeout to fetch series data
+FETCH_TIMEOUT = 600
 #REMOTE_STORE_FIND_TIMEOUT = 2.5  # Timeout for metric find requests
 #REMOTE_STORE_RETRY_DELAY = 60    # Time before retrying a failed remote webapp
 #REMOTE_FIND_CACHE_DURATION = 300 # Time to cache remote metric find results
