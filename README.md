@@ -1,6 +1,4 @@
-This repo was based on [@hopsoft's](https://github.com/hopsoft/) [docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) docker image and was used as base for "official" Graphite docker image with his permission. Also, it contains parts of famous [@obfuscurity's](https://github.com/obfuscurity/) [synthesize](https://github.com/obfuscurity/synthesize) Graphite installer. Thanks a lot, Nathan and Jason!
-
-Any suggestions / patches etc. are welcome!
+Forked from https://github.com/graphite-project/docker-graphite-statsd with a few minor config tweaks
 
 # Docker Image for Graphite & Statsd
 
