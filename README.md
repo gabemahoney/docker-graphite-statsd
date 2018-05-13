@@ -1,4 +1,4 @@
-Forked from https://github.com/graphite-project/docker-graphite-statsd with a few minor config tweaks
+Forked from https://github.com/graphite-project/docker-graphite-statsd with a few minor config tweaks.
 
 # Docker Image for Graphite & Statsd
 
